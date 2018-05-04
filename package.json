@@ -1,0 +1,21 @@
+{
+  "name": "vue-state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel example/counter/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "store": "^2.0.12",
+    "vue": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0",
+    "vuex": "^0.3.0"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^1.2.1",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
